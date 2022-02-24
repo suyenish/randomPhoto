@@ -1,5 +1,5 @@
-# randomPhoto
-Random Photo generator program
+# randomPhotoGenerator
+Random Photo generator app
 Today I have done my very first project on Swift. 
 I was doing it by this youtube video https://www.youtube.com/watch?v=yuo50-TiKgo.
 There are some changes I want to apply on this project.
